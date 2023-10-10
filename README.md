@@ -9,7 +9,7 @@
 - 💞️ I'm actively seeking opportunities to collaborate with like-minded individuals and teams on frontend projects that challenge my skills and creativity.
 -  Whether it's designing intuitive user interfaces, optimizing website performance, or diving into the intricacies of responsive design, I'm always eager to contribute my expertise.
 
-- 📫 You can reach out to me via email at [your@email.com] or connect with me on LinkedIn at [your LinkedIn profile link].
+- 📫 You can reach out to me via email at anuj.patel.9903@gmail.com or anujpatel5221@gmail.com or connect with me on LinkedIn at [your LinkedIn profile link].
 -  Don't hesitate to send me a message or connect if you'd like to discuss frontend development, work on exciting web projects, or explore opportunities for collaboration.
 - I'm looking forward to connecting with fellow frontend developers and innovators!
 
